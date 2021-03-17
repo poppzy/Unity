@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22127195917",
+    "firebase_url": "https://cardungeonhns-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cardungeonhns",
+    "storage_bucket": "cardungeonhns.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22127195917:android:718212c9c564750b94a244",
+        "android_client_info": {
+          "package_name": "com.OscarWilhelmsson.SavingData"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22127195917-mcueeotoqt2nn9476j9drk1j0ton8qhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CUdh0kUCcPvdZ_N_ubOhZOQPGDBxp_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22127195917-mcueeotoqt2nn9476j9drk1j0ton8qhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
